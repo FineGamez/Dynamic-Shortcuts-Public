@@ -16,6 +16,6 @@ Next unzip the compressed file by right clicking on it and selecting <i><b>Extra
 
 Then, you may delete the original zipped file if you wish, and open the decompressed folder.
 
-Lastly, double click the <b>dynamic-shortcuts.exe</b> file in the folder (this step is to be repeated everytime you wish to run the app directly).
+Lastly, double click the <b>dynamic-shortcuts.exe</b> file in the folder (this step is to be repeated everytime you wish to run the app directly), and give it some time on first load.
 
 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
